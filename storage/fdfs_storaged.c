@@ -244,6 +244,7 @@ int main(int argc, char *argv[])
 			return result;
 		}
 	}
+
 #endif
 
 	if ((result=tracker_report_thread_start()) != 0)

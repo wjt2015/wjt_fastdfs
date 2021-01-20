@@ -1,4 +1,17 @@
+
+[
+
+学习fastdfs;向fastdfs作者致敬!
+
+
+原版代码:
+https://gitee.com/fastdfs100/fastdfs?utm_source=alading&utm_campaign=repo
+https://github.com/happyfish100/fastdfs
+
+]
+
 Copyright (C) 2008 Happy Fish / YuQing
+
 
 FastDFS may be copied only under the terms of the GNU General
 Public License V3, which may be found in the FastDFS source kit.
